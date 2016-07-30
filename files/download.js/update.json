@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "download.js",
+  "repo": "rndme/download",
+  "files": {
+    "include": ["download.js", "download.min.js"]
+  }
+}
